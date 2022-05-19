@@ -1,2 +1,2 @@
 # microservices_fastapi
-Inventory app
+Educational inventory app from youtube channel  [freeCodeCamp.org](https://www.youtube.com/watch?v=Cy9fAvsXGZA)
